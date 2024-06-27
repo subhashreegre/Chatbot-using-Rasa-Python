@@ -3,7 +3,7 @@
 
 ## Procedure:
 - Fork the repo to run it in your local machine.
-- Install Python, Pip & Rasa
+- Install Python, Pip & Rasa.
 - Open command prompt and run the project from it's corresponding path.
 
 ## Important Rasa terminal commands:
